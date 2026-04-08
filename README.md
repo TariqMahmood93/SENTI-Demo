@@ -55,15 +55,6 @@ pip install -r requirements.txt
 
 ---
 
-## Usage
-
-### Streamlit app
-```bash
-streamlit run app.py
-```
-Opens at `http://localhost:8501`.
-
-
 ## Project Structure
 ```
 senti/
